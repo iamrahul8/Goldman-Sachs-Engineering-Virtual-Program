@@ -37,11 +37,15 @@ https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_du
 
 
 ## Resources :
-Password cracking explained (techniques described in 2013 still haven’t changed)[https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/]
-Password salting[https://en.wikipedia.org/wiki/Salt_(cryptography)]
-Hash functions [https://en.wikipedia.org/wiki/Cryptographic_hash_function]
-Password cracking tools [https://en.wikipedia.org/wiki/Password_cracking#Software]
-Password strength checker [https://howsecureismypassword.net]
+<a href="https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/" >Password cracking explained</a>  (techniques described in 2013 still haven’t changed)
+
+<a href="https://en.wikipedia.org/wiki/Salt_(cryptography)" >Password salting</a> 
+
+<a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function" >Hash functions</a> 
+
+<a href="https://en.wikipedia.org/wiki/Password_cracking#Software" >Password cracking tools</a> 
+
+<a href="https://howsecureismypassword.net" >Password strength checker</a> 
 
 # Project Report and Observations:
 ```
